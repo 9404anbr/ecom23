@@ -1,6 +1,43 @@
-<html>
-  # ecom23
-Klassens första repo
-  <h1>Annas butik</h1>
-  <h2>hej hej hej</h2>
+<!DOCTYPE html>
+<html lang="sv">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Digital Product management</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+
+<body>
+    <header>
+        <h1>VärdeVisaren</h1>
+        <nav>
+            <ul>
+                <li><a href="index.html">Hem</a></li>
+                <li><a href="om.html">Om oss</a></li>
+                <li><a href="contact.html">Kontakt</a></li>
+                <li><a href="tjanster.html">Tjänster</a></li>
+                <li><a href="hittahit.html">Hitta hit</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <div class="bild-startsida" id="home"></div>
+        <div class="text-startsida">
+            <h2>En digital tjänst som värderar värdet på ditt hus och lägenhet. </h2>
+            <p class="hero-bild-text">Hitta värdet på ditt hem med ett klick! Upptäck vad din bostad är värd på marknaden idag. Få en snabb, pålitlig och uppdaterad värdering av ditt hus eller lägenhet – helt digitalt och kostnadsfritt!</p>
+            <button class="kontakta-knapp"><a href="contact.html"></a><strong>Kontakta oss</strong></button>
+        </div>
+
+
+
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2024 VärdeVisaren. Alla rättigheter förbehållna.</p>
+    </footer>
+</body>
+
 </html>
